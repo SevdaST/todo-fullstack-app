@@ -1,7 +1,9 @@
 # To-Do Fullstack App
 
 A simple full-stack To-Do application built with FastAPI, SQLite, HTML, CSS, and JavaScript.
+## Preview
 
+![To-Do App](screenshot.png)
 ## Features
 
 - Add tasks
